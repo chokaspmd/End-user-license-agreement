@@ -1,134 +1,85 @@
 Privacy Policy (Internal-Only QuickBooks API App)
 
 CHOKAS PMD – PRIVACY POLICY (INTERNAL-ONLY APP)
-Effective Date: [Month Day, Year]
-Last Updated: [Month Day, Year]
+Effective Date: [Febuary 02, 2026]
+Last Updated: [March 14, 2026]
 
 This Privacy Policy explains how Chokas PMD collects, uses, shares, and protects information when using the internal application that integrates with QuickBooks Online (the “App”).
 
 1) Scope
-
 This Policy applies to:
-
-Chokas PMD Authorized Users of the App; and
-
-Personal information of individuals (customers, tenants, vendors, employees, subcontractors) that may be contained in business records processed through the App.
+Chokas PMD Authorized Users of the App; and Personal information of individuals (customers, tenants, vendors, employees, subcontractors) that may be contained in business records processed through the App.
 
 2) Data principles (QuickBooks platform expectations)
-
 We:
-
 Clearly define the purposes for using QuickBooks/customer data and use it only for those purposes.
-
 Do not share one party’s data with another party unless explicitly stated and authorized.
-
 Maintain privacy and security practices consistent with applicable laws and requirements.
 
 3) Information we process
 A) QuickBooks Online data (via Intuit APIs)
-
 Depending on enabled permissions and features, the App may access/process:
-
 Customers/tenants, vendors, employees (names, contact info, addresses as stored)
-
 Invoices, bills, payments, deposits, expenses, purchase orders
-
 Chart of accounts, classes/locations/projects, transactions, reports
-
 Attachments if your workflows pull them (e.g., invoice PDFs)
 
 B) App operational data
-
 User identity (name/email/role) for access control
-
 Audit logs (login events, key actions, timestamps)
-
 Technical logs (device/browser metadata, IP address, error diagnostics)
 
 C) Data you upload or enter
-
 If the App supports uploads/notes, we process what Authorized Users provide (e.g., invoice references, project tags).
 
 4) Purposes of processing
-
 We use information to:
-
 Run internal accounting and operations (invoice handling, job costing, vendor/customer management, reporting)
-
 Sync authorized data with QuickBooks Online
-
 Maintain security, access control, and auditability
-
 Troubleshoot and improve reliability
-
 Comply with legal obligations
 
 5) How we share information
-
 We may share information only with:
-
 Internal recipients at Chokas PMD who need it for business operations (role-based access)
-
 Service providers (e.g., hosting, monitoring, logging) under confidentiality/security obligations
-
 Intuit/QuickBooks Online as required for API integration
-
 Legal/regulatory recipients when required by law
-
 We do not sell personal information or QuickBooks data.
-
 No cross-customer sharing: This App is internal-only for Chokas PMD; it is not a multi-tenant product and does not share data across unrelated customer accounts.
 
 6) Data retention
-
 We retain information only as long as needed for the purposes above.
-
 Set your policy to match your reality; pick one approach and delete the other:
 
 Option A (recommended for internal integrations): Minimal persistence
-
 We do not store full QuickBooks datasets long-term; we store only:
-
-OAuth tokens/connection identifiers,
-
-necessary mapping keys (e.g., QuickBooks entity IDs),
-
-operational logs for [e.g., 90–365 days].
+OAuth tokens/connection identifiers, necessary mapping keys (e.g., QuickBooks entity IDs), operational logs for [e.g., 90–365 days].
 
 Option B (if you replicate QuickBooks data for analytics):
-
 We store synchronized data in a secure database for [e.g., 24 months / 7 years] to support reporting, audits, and operational history.
 
 Deletion/Disconnect
-
 When a QuickBooks connection is disabled, we stop access immediately and delete or de-identify stored connection data within [e.g., 30 days], unless retention is required for legal/audit reasons.
 
 7) Security controls
-
 We use commercially reasonable safeguards designed to protect information, including access controls and logging. Intuit requires developers to maintain privacy/security practices and can verify compliance through audits/testing.
 
 8) Authorized user responsibilities
-
 Authorized Users must:
-
 Use the App only for company business
-
 Protect credentials and devices
-
 Avoid exporting data to unapproved locations
-
 Report suspected incidents promptly
 
 9) Your rights and inquiries
-
 If you are an employee/contractor and have questions about access, logs, or retention, contact us. If you are a customer/vendor/tenant whose data may appear in our records, you may request access/correction consistent with applicable law and our obligations.
 
 10) Changes to this Policy
-
 We may update this Policy and will post the updated version on our website. We maintain accurate records of our privacy and security practices as required.
 
 11) Contact
-
 Chokas Property Management & Development Group
 101 NW 8th St, Grand Prairie, TX 75050
 (214) 431-4660 | info@chokaspmd.com
